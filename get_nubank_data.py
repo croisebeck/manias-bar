@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 # Gets all days between December 2017 to December 2019
-days_range = np.arange('2018-11', '2019-11', dtype='datetime64[D]')
+days_range = np.arange('2018-11', '2019-12', dtype='datetime64[D]')
 
 # print(days_range);
 
